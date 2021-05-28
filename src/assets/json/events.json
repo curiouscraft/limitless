@@ -4,25 +4,25 @@
       "name": "Alberto Vaca",
       "topic": "Limitless(Ch1, Ch2) by Jim Kwik",
       "duration": "20M",
-      "imageURL":"assets/images/alberto.jpeg"
+      "imageURL":"limitless/assets/images/alberto.jpeg"
     },
     "secondPres_1": {
       "name": "Kevin Loder",
       "topic": "Alter Ego Effect by Todd Herman",
       "duration": "5M",
-      "imageURL":"assets/images/kevin.jpeg"
+      "imageURL":"limitless/assets/images/kevin.jpeg"
     },
     "secondPres_2": {
       "name": "Stephen Asogwa",
       "topic": "Not Available due to Some personal reasons",
       "duration": "5M",
-      "imageURL":"assets/images/stephen.jpeg"
+      "imageURL":"limitless/assets/images/stephen.jpeg"
     },
     "actionable": {
       "name": "Srikanth Doddi",
       "topic": "Deep Work by Cal New Port",
       "duration": "10M",
-      "imageURL":"assets/images/sri.jpeg"
+      "imageURL":"limitless/assets/images/sri.jpeg"
     },
     "datetime": "5/23/2021 3:30 AM UTC"
   }
