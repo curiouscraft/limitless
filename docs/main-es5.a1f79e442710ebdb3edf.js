@@ -90,7 +90,8 @@
                 month: 'long',
                 day: 'numeric',
                 hour: '2-digit',
-                minute: '2-digit'
+                minute: '2-digit',
+                timeZoneName: 'long'
               });
             }, function (err) {
               console.log(err);
@@ -743,4 +744,4 @@
     }
   }, [[0, "runtime", "vendor"]]]);
 })();
-//# sourceMappingURL=main-es5.813a85ce7553acb04329.js.map
+//# sourceMappingURL=main-es5.a1f79e442710ebdb3edf.js.map

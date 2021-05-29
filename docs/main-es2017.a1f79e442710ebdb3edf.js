@@ -35,7 +35,7 @@ let EventsComponent = class EventsComponent {
     getEvents() {
         this.eventsService.getCurrentEvent().toPromise().then(data => {
             this.eventData = data;
-            this.eventDate = new Date(this.eventData.datetime).toLocaleString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+            this.eventDate = new Date(this.eventData.datetime).toLocaleString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', timeZoneName: 'long' });
         }, err => {
             console.log(err);
         });
@@ -434,4 +434,4 @@ webpackEmptyAsyncContext.id = "zn8P";
 /***/ })
 
 },[[0,"runtime","vendor"]]]);
-//# sourceMappingURL=main-es2017.813a85ce7553acb04329.js.map
+//# sourceMappingURL=main-es2017.a1f79e442710ebdb3edf.js.map
