@@ -21,7 +21,7 @@ export class EventsComponent implements OnInit {
   getEvents() {
     this.eventsService.getCurrentEvent().toPromise().then(data => {
       this.eventData = data;
-      this.eventDate = new Date(this.eventData.datetime).toLocaleString();
+      this.eventDate = new Date(this.eventData.datetime).toLocaleString('en-US', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' ,hour:'2-digit',minute:'2-digit'});
 
     }, err => {
       console.log(err);
