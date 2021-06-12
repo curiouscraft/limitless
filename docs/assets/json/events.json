@@ -1,6 +1,69 @@
 [
   {
     "primPres": {
+      "name": "Srikanth Doddi",
+      "topic": "Limitless (Ch4)",
+      "duration": "10-20 Min",
+      "imageURL":"assets/images/sri.jpeg"
+  
+    },
+    "secondPres_1": {
+      "name": "Chuck Kirkpatrick",
+      "topic": "Think and Grow Rich: Part 2",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/chuck.jpeg"
+  
+    },
+    "secondPres_2": {
+      "name": "Stephen Asogwa",
+      "topic": "How to Read a Book",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/stephen.jpeg"
+  
+    },
+    "actionable": {
+      "name": "Kirk Booher",
+      "topic": "Positive Statements About you",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/booher.jpeg"
+  
+    },
+    "datetime": "6/06/2021 3:30 AM UTC"
+  },
+  
+  {
+  "primPres": {
+    "name": "Kirk Booher",
+    "topic": "Limitless (Ch3)",
+    "duration": "10-20 Min",
+    "imageURL":"assets/images/booher.jpeg"
+
+  },
+  "secondPres_1": {
+    "name": "Chuck Kirkpatrick",
+    "topic": "Think and Grow Rich",
+    "duration": "5-10 Min",
+    "imageURL":"assets/images/chuck.jpeg"
+
+  },
+  "secondPres_2": {
+    "name": "Srikanth Doddi",
+    "topic": "Life's Amazing Secrets",
+    "duration": "5-10 Min",
+    "imageURL":"assets/images/sri.jpeg"
+
+  },
+  "actionable": {
+    "name": "Siva Arunachalam",
+    "topic": "5 Second Rule by Mel Robbins",
+    "duration": "5-10 Min",
+    "imageURL":"assets/images/siva.jpeg"
+
+  },
+  "datetime": "5/30/2021 3:30 AM UTC"
+},
+  {
+    "primPres": {
       "name": "Alberto Vaca",
       "topic": "Limitless(Ch1, Ch2) by Jim Kwik",
       "duration": "20M",
