@@ -52,28 +52,28 @@
 
 .card .primarypresentor {
   height: 250px;
-    background: url("../../../assets/images/kloud.jpeg")
+    background: url("../../../assets/images/null.jpeg")
     no-repeat;
   background-position: center;
   background-size: cover;
 }
 
 .card .secondarypresentor1 {
-  background: url("../../../assets/images/alberto.jpeg")
+  background: url("../../../assets/images/booher.jpeg")
   no-repeat;
   height: 250px;
   background-position: center;
   background-size: cover;
 }
 .card .secondarypresentor2 {
-  background: url("../../../assets/images/sri.jpeg")
+  background: url("../../../assets/images/null.jpeg")
   no-repeat;
   height: 250px;
   background-position: center;
   background-size: cover;
 }
 .card .actionable {
-  background: url("../../../assets/images/booher.jpeg")
+  background: url("../../../assets/images/sri.jpeg")
     no-repeat;
   height: 250px;
   background-position: center;
