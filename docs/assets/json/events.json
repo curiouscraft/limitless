@@ -1,6 +1,37 @@
 [
   {
     "primPres": {
+      "name": "Alexander",
+      "topic": "Limitless (Ch5)",
+      "duration": "10-20 Min",
+      "imageURL":"assets/images/kloud.jpeg"
+
+    },
+    "secondPres_1": {
+      "name": "Alberto Vaca",
+      "topic": "Science of Getting Rich",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/alberto.jpeg"
+
+    },
+    "secondPres_2": {
+      "name": "Srikanth Doddi",
+      "topic": "The One Thing",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/sri.jpeg"
+
+    },
+    "actionable": {
+      "name": "Kirk Booher",
+      "topic": "-",
+      "duration": "5-10 Min",
+      "imageURL":"assets/images/booher.jpeg"
+
+    },
+    "datetime": "6/13/2021 3:30 AM UTC"
+  },
+  {
+    "primPres": {
       "name": "Srikanth Doddi",
       "topic": "Limitless (Ch4)",
       "duration": "10-20 Min",
